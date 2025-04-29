@@ -1,4 +1,5 @@
 TodoList Web App
+
 Ứng dụng TodoList là một ứng dụng web giúp người dùng quản lý công việc hàng ngày một cách đơn giản và hiệu quả. Ứng dụng hỗ trợ các chức năng cơ bản như đăng ký, đăng nhập, tạo, sửa, xóa và đánh dấu hoàn thành các công việc.
 
 🚀 Công nghệ sử dụng

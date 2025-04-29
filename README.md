@@ -47,15 +47,5 @@ git clone https://github.com/your-username/todolist-aspnetmvc.git
 
 Mở solution trong Visual Studio và chạy ứng dụng.
 Đảm bảo đã cài đặt MongoDB và chỉnh chuỗi kết nối trong appsettings.json.
-Truy cập địa chỉ https://localhost:5279 (hoặc port tương ứng) để sử dụng ứng dụng.
-
-
-
-📁 Cấu trúc thư mục
-├── Controllers/           // Các controller xử lý request
-├── Models/                // Các lớp mô hình dữ liệu
-├── Views/                 // Giao diện Razor View
-├── wwwroot/               // Tài nguyên tĩnh (CSS, JS, hình ảnh)
-├── Services/              // Các dịch vụ xử lý logic
-└── appsettings.json       // Cấu hình kết nối và ứng dụng
+Truy cập địa chỉ https://localhost:5279 (hoặc port tương ứng) để sử dụng ứng dụng.2
 

@@ -1,4 +1,4 @@
-TODOLIST WEB APP
+2TODOLIST WEB APP
 
 Ứng dụng TodoList là một ứng dụng web giúp người dùng quản lý công việc hàng ngày một cách đơn giản và hiệu quả. Ứng dụng hỗ trợ các chức năng cơ bản như đăng ký, đăng nhập, tạo, sửa, xóa và đánh dấu hoàn thành các công việc.
 
@@ -52,7 +52,7 @@ Mở solution trong Visual Studio và chạy ứng dụng.
 
 Đảm bảo đã cài đặt MongoDB và chỉnh chuỗi kết nối trong appsettings.json.
 
-Truy cập địa chỉ https://localhost:5001 (hoặc port tương ứng) để sử dụng ứng dụng.
+Truy cập địa chỉ https://localhost:5279 (hoặc port tương ứng) để sử dụng ứng dụng.
 
 📁 Cấu trúc thư mục
 ├── Controllers/           // Các controller xử lý request

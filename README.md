@@ -1,4 +1,4 @@
-2TODOLIST WEB APP
+TODOLIST WEB APP
 
 Ứng dụng TodoList là một ứng dụng web giúp người dùng quản lý công việc hàng ngày một cách đơn giản và hiệu quả. Ứng dụng hỗ trợ các chức năng cơ bản như đăng ký, đăng nhập, tạo, sửa, xóa và đánh dấu hoàn thành các công việc.
 
@@ -43,16 +43,13 @@ Giao diện trực quan, dễ sử dụng trên cả desktop và thiết bị di
 ![image](https://github.com/user-attachments/assets/e0f18ee1-bfa8-43b6-8744-a4cc80762dbe)
 ⚙️ Hướng dẫn cài đặt
 Clone repository về máy:
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/todolist-aspnetmvc.git
+
 Mở solution trong Visual Studio và chạy ứng dụng.
-
 Đảm bảo đã cài đặt MongoDB và chỉnh chuỗi kết nối trong appsettings.json.
-
 Truy cập địa chỉ https://localhost:5279 (hoặc port tương ứng) để sử dụng ứng dụng.
+
+
 
 📁 Cấu trúc thư mục
 ├── Controllers/           // Các controller xử lý request
